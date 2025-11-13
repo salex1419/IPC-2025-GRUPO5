@@ -15,8 +15,9 @@ El repositorio está estructurado en 3 carpetas principales:
 
 - Docs: para guardar documentación, artículos, etc.
 - Data: Para guardar datos brutos y procesados.
-- Resultados:Para guardar resultados y trabajar con ellos.
+- Resultados: Para guardar resultados y trabajar con ellos.
 - Scripts: Para guardar scripts y notebooks utilizados y facilitar al resto del equipo que trabajen con ellos
 
 ## Integrantes
 - Laura Lasquibar @llasquibar
+- Carlos Rossell
